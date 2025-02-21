@@ -7,6 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios
 
 🎯 Meu objetivo é criar soluções eficientes e escaláveis, utilizando Angular, TypeScript, JavaScript, Node.js e SQL.
 
+
 ## :computer: Tecnologias e ferramentas que utilizo  
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
@@ -22,9 +23,13 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e desafios
 </a>
 
 ## 🌱 Em constante aprendizado
-Atualmente, estou aprimorando minhas habilidades em React.js e explorando novas tecnologias para expandir minhas possibilidades como desenvolvedor.
+Atualmente, estou aprimorando minhas habilidades e explorando novas tecnologias para expandir minhas possibilidades como desenvolvedor.
 
 ## 📫 Como me encontrar
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo!  
+Explore meus repositórios e entrar em contato comigo!  
 
-<a href="https://www.linkedin.com/in/marcus-castilhos-b8b812198/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.instagram.com/marcus_castilhos/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a href="mailto:marcus.castilhos@outlook.com"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<a href="https://www.linkedin.com/in/marcus-castilhos-b8b812198/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+<a href="https://www.instagram.com/marcus_castilhos/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br>
+<a href="mailto:marcus.castilhos@outlook.com"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
